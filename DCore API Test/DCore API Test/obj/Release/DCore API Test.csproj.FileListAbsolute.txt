@@ -1,0 +1,10 @@
+C:\Users\aaron\source\repos\DCore API Test\DCore API Test\bin\Release\DCore API Test.exe.config
+C:\Users\aaron\source\repos\DCore API Test\DCore API Test\bin\Release\DCore API Test.exe
+C:\Users\aaron\source\repos\DCore API Test\DCore API Test\bin\Release\DCore API Test.pdb
+C:\Users\aaron\source\repos\DCore API Test\DCore API Test\obj\Release\DCore API Test.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\DCore API Test\DCore API Test\obj\Release\DCore_API_Test.Form1.resources
+C:\Users\aaron\source\repos\DCore API Test\DCore API Test\obj\Release\DCore_API_Test.Properties.Resources.resources
+C:\Users\aaron\source\repos\DCore API Test\DCore API Test\obj\Release\DCore API Test.csproj.GenerateResource.cache
+C:\Users\aaron\source\repos\DCore API Test\DCore API Test\obj\Release\DCore API Test.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\DCore API Test\DCore API Test\obj\Release\DCore API Test.exe
+C:\Users\aaron\source\repos\DCore API Test\DCore API Test\obj\Release\DCore API Test.pdb
